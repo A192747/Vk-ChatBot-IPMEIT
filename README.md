@@ -3,9 +3,9 @@
 [Примеры использования функций (на основе структуры нашего кода)](https://github.com/yvasyliev/java-vk-bots-long-poll-api-examples)
 
 ## Все самостоятельно реализованные функции лежат в: 
-папке internalParts
-Файл VK_BOT.java
-Файл BotsLongPoll.java (многопоток)
+1. папка internalParts
+2. Файл VK_BOT.java
+3. Файл BotsLongPoll.java (многопоток)
 
 ## Инструкции
 [Создание карусели](#Создание_карусели)
